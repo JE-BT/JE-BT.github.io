@@ -27,11 +27,18 @@ Bachelor of Arts in International Studies with an Emphasis in Peace and Conflict
 
 ## Awards
 
+`2023`
+Placeholder - NTNU Award
+
+`2013`
+Placeholder - Department of State Award
+
 `2012`
-Name of Award, Organization 
+Placeholder - HPU Award 
 
 ## Publications
 
+Bunderson Toler, J. E. (2023). 	Knowledges of Development: Analyzing Local Development within Aotearoa New Zealand in The Globalization Era (no.ntnu:inspera:142263345:91508029) [Masters dissertation, NTNU](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3081702). NTNU Open. 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
