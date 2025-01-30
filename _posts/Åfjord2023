@@ -1,7 +1,7 @@
 ---
 layout: slide
-title: New Working Spaces workshop in Åjord, Monday, August 25, 2023
-excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck
+title: New Working Spaces: Åfjord
+excerpt: New Working Spaces workshop held in Åjord, Monday, August 25, 2023
 pdf_path: Åfjord2023.pdf  # Add this line with your PDF filename
 transition: convex
 tags: [presentation]
