@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Arctic Security
-excerpt: "What is a static website generator, and why should I care?"
+excerpt: "New 14 billion kroner agreement to strengthen security in the arctic"
 modified: 1/30/2025, 12:00
 tags: [arctic, security]
 comments: true
