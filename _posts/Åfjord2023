@@ -14,7 +14,6 @@ category: presentation
 
 <section>
     <div class="pdf-container">
-        <!-- Replace 'path/to/your/presentation.pdf' with the actual path to your PDF file -->
         <object
             data="presentations/Åfjord2023.pdf"
             type="application/pdf"
@@ -23,7 +22,7 @@ category: presentation
         >
             <p>
                 It appears you don't have a PDF plugin for this browser.
-                You can <a href="path/to/your/presentation.pdf">click here to download the PDF file.</a>
+                You can <a href="presentations/Åfjord2023.pdf">click here to download the PDF file.</a>
             </p>
         </object>
     </div>
