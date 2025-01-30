@@ -5,7 +5,7 @@ menutitle: CV - curriculum vitae
 ---
 ## Currently
 
-PhD Candidate in Sociology at Nord universitet
+PhD Candidate in Sociology at Nord university
 
 ## Education
 
@@ -64,6 +64,9 @@ Stjernström, Olof A., Ekmann, Lisa, Bunderson Toler, Jason. (25. september, 202
 
 ## Occupation
 
+'February 2025 - Current'
+__PhD in Sociology - Disaster preparedness in the Arctic__, Faculty of Social Sciences, Nord University
+
 `July 2023 - Current`
 __University Lecturer__, Faculty of Social Sciences, Nord University
 
@@ -80,10 +83,35 @@ Important courses:
 __Learning Assisstant__, Department of Geography, NTNU
 
 Important courses:
-• GEOG3527, GIS Tools for Climate Change Studiesk
+• GEOG3527, GIS Tools for Climate Change Studies
+
+## Research and Community Work
+
+'2022-2023'
+__Norwegian Language Student__, Brilla Institute, Trondheim, Norway
+
+'2022'
+__Life in Vacant Spaces__, Research Project with University of Canterbury, Christchurch, New Zealand
+
+'2016-2017'
+__Nehiyaw Language Student__, Edmonton Heritage Centre, Edmonton, Canada
+
+'2016-2017'
+__Teaching and Event Assistant__, Seniors Association of Greater Edmonton (SAGE) Centre, Edmonton, Canada
+
+## Other Work
+
+'May 2022 - September 2022'
+__Coursebook Design__, Canadian Indigenous Languages and Literacy Center (CILLDI) at the Universtiy of Alberta, Edmonton, Canada
+
+'October 2017 - July 2021'
+__Digital Print Specialist__, Service Alberta, The Government of Alberta, Edmonton, Canada
+
+'September 2015 - August 2017'
+__Partner and Design Contractor__, The UPS Store in Edmonton, Canada
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Feb 2025 -->
 
 
