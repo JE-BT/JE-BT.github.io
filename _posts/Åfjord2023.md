@@ -1,8 +1,8 @@
 ---
 layout: slide
-title: New Working Spaces: Åfjord
-excerpt: New Working Spaces workshop held in Åjord, Monday, August 25, 2023
-pdf_path: Åfjord2023.pdf  # Add this line with your PDF filename
+title: "New Working Spaces: Åfjord"
+excerpt: "New Working Spaces workshop held in Åjord, Monday, August 25, 2023"
+pdf_path: "Åfjord2023.pdf"  # Add this line with your PDF filename
 transition: convex
 tags: [presentation]
 category: presentation
