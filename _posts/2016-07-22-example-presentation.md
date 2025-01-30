@@ -1,12 +1,54 @@
 ---
 layout: slide
-title: Example Reveal.js Presentation Deck
+title: New Working Spaces workshop in Åjord, Monday, August 25, 2023
 excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
 # theme: simple
 transition: convex
 tags: [presentation]
 category: presentation
 ---
+<section>
+    <div class="pdf-container">
+        <!-- Replace 'path/to/your/presentation.pdf' with the actual path to your PDF file -->
+        <object
+            data="presentations/Åfjord2023.pdf"
+            type="application/pdf"
+            width="100%"
+            height="600px"
+        >
+            <p>
+                It appears you don't have a PDF plugin for this browser.
+                You can <a href="path/to/your/presentation.pdf">click here to download the PDF file.</a>
+            </p>
+        </object>
+    </div>
+</section>
+
+<!-- Add some custom styles for the PDF container -->
+<style>
+    .pdf-container {
+        width: 100%;
+        max-width: 1024px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+    
+    .pdf-container object {
+        border: 1px solid #ccc;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    
+    @media (max-width: 768px) {
+        .pdf-container {
+            padding: 10px;
+        }
+        
+        .pdf-container object {
+            height: 400px;
+        }
+    }
+</style>
+
 <section data-markdown>
   <textarea data-template>
     ## Reveal.js and Jekyll Academic
