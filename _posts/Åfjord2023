@@ -1,12 +1,17 @@
 ---
 layout: slide
-title: New Working Spaces workshop in Åjord, Monday, August 25, 2023
-excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
+title: New Working Spaces: Åfjord
+excerpt: Presentation at the New Working Spaces workshop in Åjord, Monday, August 25, 2023
 # theme: simple
 transition: convex
 tags: [presentation]
 category: presentation
 ---
+
+
+<section data-markdown>
+  <textarea data-template>
+
 <section>
     <div class="pdf-container">
         <!-- Replace 'path/to/your/presentation.pdf' with the actual path to your PDF file -->
@@ -48,9 +53,6 @@ category: presentation
         }
     }
 </style>
-
-<section data-markdown>
-  <textarea data-template>
     ## Reveal.js and Jekyll Academic
     ---
     ## HTML or Markdown
