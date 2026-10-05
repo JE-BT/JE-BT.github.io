@@ -10,7 +10,7 @@ category: blog
 
 # Danish Ministry of Defence announces new agreement bolstering Arctic Security
 
-On Monday, the Danish Ministry of Defence announce a 14 billion kroner agreement to strengthen security in the arctic. This agreement will provide funding for arctic naval vessels, drones, and military training and preparedness for the Danish Forsvaret. The announcement comes at a time of hightened tensions in the Arctic and Greenland, with the new US administration issuing an ultimatum on the annexation of Greenland by the United States.
+On Monday, the Danish Ministry of Defence announced a 14 billion kroner agreement to strengthen security in the arctic. This agreement will provide funding for arctic naval vessels, drones, and military training and preparedness for the Danish Forsvaret. The announcement comes at a time of heightened tensions in the Arctic and Greenland, with the new US administration issuing an ultimatum on the annexation of Greenland by the United States.
 
 ## Sources and Further Reading
 
@@ -21,6 +21,5 @@ On Monday, the Danish Ministry of Defence announce a 14 billion kroner agreement
 *Last updated: January 30, 2025*
 
 **Contact Information**  
-Urban Gardens Research Group  
 Email: jason.e.bunderson@nord.no
 Blue-Sky: [@jebtoler](https://bsky.app/profile/jebtoler.bsky.social)
