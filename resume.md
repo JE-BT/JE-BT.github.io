@@ -5,7 +5,7 @@ menutitle: CV - curriculum vitae
 ---
 ## Currently
 
-PhD Candidate in Sociology at Nord university
+PhD Candidate in Social Science with a focus in Arctic Vulnerability at Nord university
 
 ## Education
 
@@ -16,10 +16,6 @@ Masters in Globalization and Sustainable Development
 `2014`
 __School for International Training (SIT)__
 Course in Uganda & Rwanda: Peace & Conflict Studies in the Lake Victoria Basin 
-
-`2012-2014`
-__Hawai'i Pacific University (HPU)__
-Bachelor of Arts in International Studies with an Emphasis in Peace and Conflict
 
 `2012-2014`
 __Hawai'i Pacific University (HPU)__
@@ -50,34 +46,31 @@ Dombroski, K., Diprose, G., Scobie, M. and Yates, A. 2023. Enabling Life in Vaca
 
 ## Presentations
 
-`2025`
-Placeholder, Data Day, Stockholm University, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
-'2024'
+`2024`
 Stjernström, Olof A., Ekmann, Lisa, Bunderson Toler, Jason. (January, 2024). _New Working Spaces Workshop in Steinkjer_.  SINTEF & Nord University. In: Steinkjer, Norge.
 
-'2023'
+`2024`
 Stjernström, Olof A., Ekmann, Lisa, Bunderson Toler, Jason. (2. october, 2024). _New Working Spaces Workshop in Grong_. SINTEF & Nord University. In: Grong, Norge.
 
-'2023'
+`2023`
 Stjernström, Olof A., Ekmann, Lisa, Bunderson Toler, Jason. (25. september, 2023). _New Working Spaces Workshop in Åfjord_. SINTEF & Nord University. In: Åfjord, Norge.
 
 ## Occupation
 
-'February 2025 - Current'
+`February 2025 - Current`
 __PhD in Sociology - Disaster preparedness in the Arctic__, Faculty of Social Sciences, Nord University
 
 `July 2023 - Current`
 __University Lecturer__, Faculty of Social Sciences, Nord University
 
 Important courses:
-• BCS125X, People and Cultures of the Circumpolar North
-• GEO1009, Geographic Information Systems
-• GEO2005, Arealplanlegging
-• GEO2006, Spatial Analysis
-• GEO2008, Arealplanlegging (Naturforvaltning)
-• MET1003, Research Methods
-• MET5009, Forskningsmetode og design del 1
+- BCS125X, People and Cultures of the Circumpolar North
+- GEO1009, Geographic Information Systems
+- GEO2005, Arealplanlegging
+- GEO2006, Spatial Analysis
+- GEO2008, Arealplanlegging (Naturforvaltning)
+- MET1003, Research Methods
+- MET5009, Forskningsmetode og design del 1
 
 `January 2022 - May 2023`
 __Learning Assisstant__, Department of Geography, NTNU
@@ -101,13 +94,13 @@ __Teaching and Event Assistant__, Seniors Association of Greater Edmonton (SAGE)
 
 ## Other Work
 
-'May 2022 - September 2022'
-__Coursebook Design__, Canadian Indigenous Languages and Literacy Center (CILLDI) at the Universtiy of Alberta, Edmonton, Canada
+`May 2022 - September 2022`
+__Coursebook Design__, Canadian Indigenous Languages and Literacy Development Institute (CILLDI) at the Universtiy of Alberta, Edmonton, Canada
 
-'October 2017 - July 2021'
+`October 2017 - July 2021`
 __Digital Print Specialist__, Service Alberta, The Government of Alberta, Edmonton, Canada
 
-'September 2015 - August 2017'
+`September 2015 - August 2017`
 __Partner and Design Contractor__, The UPS Store in Edmonton, Canada
 
 <!-- ### Footer
