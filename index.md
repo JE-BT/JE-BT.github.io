@@ -10,5 +10,6 @@ My name is Jason and I am a PhD candidate at Nord University and assistant profe
 ## Current Projects and Groups:
 
 - PhD in Social Science with a focus on Arctic Vulnerability (Nord University)
+- REINS research network (https://www.nord.no/en/research/research-project/reins)
 - Nord Arctic and the Geo Security research group at Nord University
 - Scenario Analyses Regarding Climate-Change Hazards and Critical Infrastructure in the Arctic (CCCI) at the Norwegian Meteorological Institute in Oslo
