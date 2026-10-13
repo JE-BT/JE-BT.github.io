@@ -8,9 +8,11 @@ excerpt: "Selected publications"
 
 ## Book Chapters
 
-Holand, I. S., [co-author(s)], & Wood-Donnelly, C. (in press). [Chapter title]. In C. Wood-Donnelly & A. M. Holand (Eds.), *Crises in our times: At the intersection of security and responsibility*. De Gruyter. ISBN 9783112228203. [https://books.google.no/books?id=jgwd0gEACAAJ](https://books.google.no/books?id=jgwd0gEACAAJ)
+Holand, Ivar S., & Bunderson Toler, Jason E. (in press). Paradigms of Preparedness and Response. In C. Wood-Donnelly & A. M. Holand (Eds.), *Crises in our times: At the intersection of security and responsibility*. De Gruyter. ISBN 9783112228203. [https://books.google.no/books?id=jgwd0gEACAAJ](https://books.google.no/books?id=jgwd0gEACAAJ)
 
-[Chapter author(s)]. (2026). [Chapter title]. In [editor(s)] (Eds.), *Arctic shipping and logistics* (pp. [pages]). [Publisher]. [https://www.ark.no/produkt/arctic-shipping-and-logistics-9781032985480](https://www.ark.no/produkt/arctic-shipping-and-logistics-9781032985480)
+Chapter 3.2 Ports and commercial actors  
+
+Hermann, R. R. & Bunderson Toler, J. E. & Olsen, Julia & Baudu, Hervé & Faury, Olivier & Kovalenko, Alina. (2026). Ports and commercial actors. In Olsen, Julia & Hermann, R. R. (Eds.), *Arctic shipping and logistics*. Routledge. [https://www.ark.no/produkt/arctic-shipping-and-logistics-9781032985480](https://www.ark.no/produkt/arctic-shipping-and-logistics-9781032985480)
 
 ## Journal Articles and Theses
 
