@@ -58,7 +58,7 @@ Stjernström, Olof A., Ekmann, Lisa, Bunderson Toler, Jason. (25. september, 202
 ## Occupation
 
 `February 2025 - Current`
-__PhD in Sociology - Disaster preparedness in the Arctic__, Faculty of Social Sciences, Nord University
+__PhD in Social Science - Arctic Vulnerabilities__, Faculty of Social Sciences, Nord University
 
 `July 2023 - Current`
 __University Lecturer__, Faculty of Social Sciences, Nord University
